@@ -1,0 +1,4 @@
+pika
+python-dotenv
+mcstatus
+psycopg2
